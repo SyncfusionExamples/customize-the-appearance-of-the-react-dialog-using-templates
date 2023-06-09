@@ -1,0 +1,84 @@
+@import '../node_modules/@syncfusion/ej2-base/styles/material.css';
+@import '../node_modules/@syncfusion/ej2-buttons/styles/material.css';
+@import "../node_modules/@syncfusion/ej2-react-popups/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-inputs/styles/material.css";
+html,
+body {
+  display: block;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+}
+.e-dialog .e-dlg-header-content .e-dlg-header .e-template-image {
+  vertical-align: middle;
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+}
+
+.e-dialog .e-dlg-header-content .e-btn.e-dlg-closeicon-btn {
+  top: 5px;
+  left: -11px;
+  background-color: transparent;
+}
+
+.e-dialog .e-dlg-header {
+  position: relative;
+}
+
+.e-dialog .e-dlg-content {
+  padding: 0px !important;
+}
+
+.e-dialog .e-dlg-header-content {
+  padding: 6px;
+}
+
+#template {
+  display: inline-block;
+  padding: 0px !important;
+  vertical-align: middle;
+  font-size: 20px;
+  font-weight: bold;
+  height: 30px;
+  line-height: 40px;
+}
+
+.e-icon-settings.e-icons {
+  float: left;
+  position: relative;
+  left: 14%;
+  top: -33px;
+}
+.dialogContent .dialogText {
+  font-size: 17px;
+  padding: 7% 4% 5% 3%;
+  word-wrap: break-word;
+  border-radius: 6px;
+  text-align: justify;
+  font-style: initial;
+  display: block;
+}
+
+.dialogContent {
+  padding: 2%;
+  position: relative;
+  font-family: serif;
+}
+#textbox {
+  float: left;
+  width: 275px;
+}
+#subscribeButton {
+  top: 2px;
+  position: relative;
+}
+.e-footer-content .e-input-group {
+  width: 75%;
+  float: left;
+}
+.e-dialog .e-footer-content {
+  padding: 15px;
+}
