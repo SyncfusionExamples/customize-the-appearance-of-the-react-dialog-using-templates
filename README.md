@@ -1,15 +1,52 @@
 # Customize the Appearance of the React Dialog Using Templates
 
-A quick-start project that helps you to customize a React Dialog component appearance using templates in a React application. This project contains code to customize a header, content and footer of the dialog.
- 
-Refer to the following documentation to learn about the React Dialog Component: 
+A quick-start project that demonstrates how to customize React Dialog component appearance using templates for headers, content, and footers in a React application. Learn to create fully styled and branded dialog components.
+
+## Features
+
+- Custom header and footer templates
+- Flexible content area design
+- Complete styling and branding control
+- Responsive layouts with JSX
+- Reusable template components
+
+## Prerequisites
+
+Ensure you have the following installed:
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Node.js](https://nodejs.org/en/download) v14 or later
+- npm (comes with Node.js)
+
+## How to Run This Application
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Run `npm install` to install dependencies
+4. Run `npm start` to start the development server
+5. Open the browser at `http://localhost:3000`
+
+## Usage
+
+The project includes examples for:
+- Creating custom dialog header templates
+- Designing content layouts with JSX
+- Building styled footer sections with action buttons
+- Implementing template-based styling and theming
+
+## Documentation
+
+For detailed information about React Dialog templates:
 https://ej2.syncfusion.com/react/documentation/dialog/template
 
-Check out this online example of the React Dialog Component:
+## Examples
+
+View template customization in action:
 https://ej2.syncfusion.com/react/demos/#/material/dialog/template
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
+## Support
 
-## How to run this application
-To run this application, you need to first clone the `customize-the-appearance-of-the-react-dialog-using-templates` repository and then open it in Visual Studio Code. Now, simply build and run your project to view the output.
+For issues or questions, refer to Syncfusion documentation or submit an issue in the repository.
+
+## License
+
+This project is provided as-is for educational and development purposes.
